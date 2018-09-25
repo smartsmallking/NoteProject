@@ -1,0 +1,8 @@
+[option]
+LastestVersion = 3.3
+VersionSize = 9620466B
+
+[updateinfo]
+1 = 去除不必要的代码.稍加精简
+2 = 修复标签关闭后属性未同步的问题
+3 = 修复清空备忘录时弹窗位置错误的问题
